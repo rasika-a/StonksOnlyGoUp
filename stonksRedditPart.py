@@ -58,7 +58,9 @@ def getTickers(ddSubsTitles):
         
         for ticker in words:
             try:
-                if len(stocker.predict.tomorrow(ticker)) == 0:
+                if wordnet.synsets(ticker):
+                    continue
+                elif len(stocker.predict.tomorrow(ticker)) == 0:
                     continue
                 elif len(allResults) < 4:
                     allResults.add(ticker)
