@@ -79,7 +79,7 @@ def printContents(collection):
 
 def main():
     ddSubsTitles = getDDPostTitles()
-    printContents(ddSubsTitles)
+    #printContents(ddSubsTitles)
     allTickers = getTickers(ddSubsTitles)
     printContents(allTickers)
 
