@@ -1,0 +1,7 @@
+('Ticker Name', 'URL',Actual Analysis, 'Compound Vader Sentiment Score', 'Positive Vader Sentiment Score', 'Negative Vader Sentiment Score', 'Neutral Vader Sentiment Score', 'Compound IBM Score', 'Puts IBM Score', 'Calls IBM Score', 'Others IBM Score')
+('GILD',https://redd.it/g33axv,,0.9937,0.173,0.081,0.745,-0.560796,-0.89335,0, -0.552068)
+('ABT',https://redd.it/g38y4b,,0.8692,0.112,0.034,0.854,0.401838,0,0, 0.394636)
+('TSM',https://redd.it/g37j74,,0.9876,0.113,0,0.887,0.560703,0,0, 0.538659)
+('GILD',https://redd.it/g2x65h,,0.8864,0.07,0.062,0.867,-0.650574,-0.941171,-0.512441, -0.640463)
+('SHOP',https://redd.it/g3ch5h,,0.9759,0.139,0.02,0.841,0.438195,0,0, 0.347557)
+('SPY',https://redd.it/g35zn0,,-0.2869,0.019,0.032,0.95,-0.590974,-0.672118,0, -0.481453)
